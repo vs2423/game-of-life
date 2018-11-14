@@ -6,7 +6,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>gameoflife</name>
-    <url>https://github.com/wakaleo/game-of-life</url>
+    <url>http://13.233.28.108:8081/#admin/repository/repositories:gameoflife-repo1</url>
     <properties>
         <build.number>SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +24,7 @@
     <scm>
         <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
-        <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
+        <url>http://13.233.28.108:8081/#admin/repository/repositories:gameoflife-repo</url>
     </scm>
     <build>
         <plugins>
