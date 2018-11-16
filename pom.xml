@@ -497,8 +497,8 @@
     </profiles>
     <distributionmanagement>
         <repository>
-            <id>releases</id>
-            <name>Releases</name>
+            <id>release</id>
+            <name>gameoflife-repo</name>
             <url>http://13.127.185.151:8081/#admin/repository/repositories:gameoflife-repo</url>
         </repository>
     </distributionmanagement>
