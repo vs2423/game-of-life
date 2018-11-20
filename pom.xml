@@ -499,8 +499,8 @@
         
         <repository>
             <id>release</id>
-            <name>gameoflife-repo</name>
-            <url>http://13.127.185.151:8081/#admin/repository/repositories:gameoflife-repo</url>
+            <name>gameoflife-repo1</name>
+            <url>http://13.233.164.240:8081/#admin/repository/repositories:gameoflife-repo1</url>
         </repository>
         
     </distributionManagement>
