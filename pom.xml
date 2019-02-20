@@ -500,7 +500,7 @@
         <repository>
             <id>release</id>
             <name>gameoflife-repo1</name>
-            <url>http://13.233.107.201:8081/#admin/repository/repositories:gameoflife-repo1</url>
+            <url>http://52.66.203.73:8081/#admin/repository/repositories:gameoflife-repo1</url>
         </repository>
         
     </distributionManagement>
